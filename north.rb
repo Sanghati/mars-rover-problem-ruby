@@ -15,6 +15,6 @@ class North
 	    return {x: x, y: y}
 	end
 	def name
-		"N"
+	    "N"
 	end
 end

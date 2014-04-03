@@ -10,12 +10,8 @@ class North
 		
 	end
 	def move(x,y)
-		  #curpos = y
-		   x = x 
-		   y +=1
-		   # if y > max_y 
-		   # 	 y = curpos
-		   # end
+	    x = x 
+	    y +=1
 	    return {x: x, y: y}
 	end
 	def name
